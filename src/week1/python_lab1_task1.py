@@ -37,7 +37,6 @@ def circle_area(radius: float) -> float:
     """Return the area of a circle given its radius (unrounded)."""
     # TODO: implement formula using math.pi
     return math.pi * radius ** 2
-    raise NotImplementedError("circle_area() is not implemented yet")
 
 
 if __name__ == "__main__":
