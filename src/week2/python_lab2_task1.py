@@ -85,7 +85,6 @@ if __name__ == "__main__":
     # Keep all input() and print() calls inside this block, otherwise the
     # autograder cannot import your file.
 
-    # TODO: Create your own datasets - up to you to fill in the data
     temperatures = [6.5, 5.0, 4.2, 3.8, 7.1, 2.9, 4.4]
     city_population = {
         "Riga": 605000,
